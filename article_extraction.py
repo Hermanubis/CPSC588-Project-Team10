@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # key = "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"
-apiKey = "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"
+apiKey = "KEY_HERE"
 
 client = OpenAI(
     api_key = apiKey
