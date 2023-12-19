@@ -1,0 +1,279 @@
+{
+    "questions": [
+        {
+            "keyword": "glioma",
+            "question": "What is a glioma?",
+            "answer": "A glioma is a type of tumor that occurs in the brain and spinal cord."
+        },
+        {
+            "keyword": "glioma",
+            "question": "What are the symptoms of a glioma?",
+            "answer": "Symptoms can include headaches, nausea, vomiting, seizures, and changes in personality or mental function."
+        },
+        {
+            "keyword": "glioma",
+            "question": "How is a glioma diagnosed?",
+            "answer": "Diagnosis may involve neurological exams, MRI, CT scans, and sometimes a biopsy."
+        },
+        {
+            "keyword": "glioma",
+            "question": "What are the treatment options for glioma?",
+            "answer": "Treatment can include surgery, radiation therapy, chemotherapy, targeted therapy, and experimental clinical trials."
+        },
+        {
+            "keyword": "glioma",
+            "question": "What is the prognosis for someone with a glioma?",
+            "answer": "Prognosis depends on the type, size, and location of the tumor, as well as the patient's age and overall health."
+        },
+        {
+            "keyword": "glioma",
+            "question": "Can gliomas be cured?",
+            "answer": "Some gliomas may be managed or removed through surgery, but a cure depends on the individual case and tumor type."
+        },
+        {
+            "keyword": "glioma",
+            "question": "What is the difference between a glioma and glioblastoma?",
+            "answer": "Glioblastoma is a type of glioma and is considered the most aggressive form, characterized by rapid growth and a tendency to spread within the brain."
+        },
+        {
+            "keyword": "glioma",
+            "question": "Are there different types of gliomas?",
+            "answer": "Yes, there are several types of gliomas, including astrocytomas, oligodendrogliomas, ependymomas, and glioblastomas."
+        },
+        {
+            "keyword": "glioma",
+            "question": "Is there a genetic component to gliomas?",
+            "answer": "Some gliomas have genetic mutations that may play a role in their development; however, most are sporadic and not inherited."
+        },
+        {
+            "keyword": "glioma",
+            "question": "How common are gliomas?",
+            "answer": "Gliomas are relatively uncommon, with glioblastomas making up about 15% of all primary brain tumors."
+        },
+        {
+            "keyword": "MRI",
+            "question": "What does MRI stand for?",
+            "answer": "MRI stands for Magnetic Resonance Imaging."
+        },
+        {
+            "keyword": "MRI",
+            "question": "How does an MRI work?",
+            "answer": "MRI uses a strong magnetic field and radio waves to create detailed images of the organs and tissues within the body."
+        },
+        {
+            "keyword": "MRI",
+            "question": "Is MRI safe?",
+            "answer": "MRI is generally safe; it doesn't use ionizing radiation like X-rays. However, the magnetic field can affect pacemakers and other implants."
+        },
+        {
+            "keyword": "MRI",
+            "question": "What are the uses of an MRI?",
+            "answer": "MRI can be used to diagnose a variety of conditions, assess the severity of injuries, and monitor treatment for diseases."
+        },
+        {
+            "keyword": "MRI",
+            "question": "How long does an MRI scan take?",
+            "answer": "An MRI scan can take anywhere from 15 minutes to over an hour, depending on the part of the body being examined and the number of images needed."
+        },
+        {
+            "keyword": "MRI",
+            "question": "Can you have an MRI with metal in your body?",
+            "answer": "Certain metal objects can interfere with the MRI scan. It is crucial to inform the medical staff about any metal implants, shrapnel, or other metallic objects in your body."
+        },
+        {
+            "keyword": "MRI",
+            "question": "What is the difference between an MRI and a CT scan?",
+            "answer": "MRI is better for imaging soft tissues, while a CT scan is typically better for imaging bone structures and detecting lung and chest problems."
+        },
+        {
+            "keyword": "MRI",
+            "question": "Are there any side effects of an MRI?",
+            "answer": "Most people experience no side effects from an MRI. However, some may feel claustrophobic or uncomfortable lying still during the procedure."
+        },
+        {
+            "keyword": "MRI",
+            "question": "What is an open MRI?",
+            "answer": "An open MRI is designed to be less confining than a standard MRI and can be more comfortable for claustrophobic patients."
+        },
+        {
+            "keyword": "MRI",
+            "question": "Can pregnant women have an MRI?",
+            "answer": "MRI is generally considered safe in pregnancy, but it's usually recommended to avoid it in the first trimester unless it's medically necessary."
+        },
+        {
+            "keyword": "diagnostic certainty",
+            "question": "What is diagnostic certainty?",
+            "answer": "Diagnostic certainty reflects how well a diagnosis is established, ranging from 'possible' to 'certain'."
+        },
+        {
+            "keyword": "diagnostic certainty",
+            "question": "Why is it important not to overstate diagnostic certainty?",
+            "answer": "Overstating it reduces the utility of the case library and undermines the contributor’s credibility."
+        },
+        {
+            "keyword": "diagnostic certainty",
+            "question": "How should one approach their own diagnostic cases?",
+            "answer": "Be pedantic and skeptical, and strive to establish the diagnosis with supporting information."
+        },
+        {
+            "keyword": "diagnostic certainty",
+            "question": "What is a key question to ask regarding diagnostic certainty?",
+            "answer": "\"Would a pedantic high-end peer-reviewed journal accept the diagnosis if submitted as a case report?\""
+        },
+        {
+            "keyword": "diagnostic certainty",
+            "question": "When can a diagnosis be considered 'Certain'?",
+            "answer": "When there is no doubt about the diagnosis, as agreed by a cynical and skeptical third party."
+        },
+        {
+            "keyword": "diagnostic certainty",
+            "question": "What is required for a diagnostic certainty of 'certain' or 'almost certain'?",
+            "answer": "Compelling evidence such as histology reports, operative photos, etc., especially for rare or atypical cases."
+        },
+        {
+            "keyword": "diagnostic certainty",
+            "question": "How does the Dunning-Kruger effect relate to diagnostic certainty?",
+            "answer": "It highlights the risk of overconfidence, particularly in unfamiliar or complex cases."
+        },
+        {
+            "keyword": "diagnostic certainty",
+            "question": "What are examples of specific criteria for certain conditions?",
+            "answer": "For instance, the Boston criteria 2.0 for cerebral amyloid angiopathy."
+        },
+        {
+            "keyword": "diagnostic certainty",
+            "question": "Where is the option to set diagnostic certainty located?",
+            "answer": "In the case edit mode, below the title, with a slider and descriptions for each state."
+        },
+        {
+            "keyword": "diagnostic certainty",
+            "question": "What do the colored dots represent in diagnostic certainty?",
+            "answer": "They indicate the level of certainty: red for 'Possible,' orange for 'Probable,' yellow for 'Almost certain,' green for 'Certain,' and no dot for 'Not applicable'."
+        },
+        {
+            "keyword": "diagnostic certainty",
+            "question": "What does a 'Possible' diagnosis (red dot) imply?",
+            "answer": "It's one of several possible diagnoses, and while more likely, other conditions are still viable alternatives."
+        },
+        {
+            "keyword": "diagnostic certainty",
+            "question": "What should be included when publishing a 'Possible' diagnosis?",
+            "answer": "A discussion on why a particular diagnosis is favored, with the understanding that it might be rejected for publication."
+        },
+        {
+            "keyword": "diagnostic certainty",
+            "question": "What does a 'Probable' diagnosis (orange dot) signify?",
+            "answer": "The preferred diagnosis is much more likely (>90%) than any alternative, but it's not yet established."
+        },
+        {
+            "keyword": "diagnostic certainty",
+            "question": "What characterizes an 'Almost certain' diagnosis (yellow dot)?",
+            "answer": "Good reasons to believe the diagnosis, but without direct access to proof (e.g., reliant on secondary sources or highly suggestive imaging)."
+        },
+        {
+            "keyword": "diagnostic certainty",
+            "question": "What are examples of conditions that might be 'Almost certain'?",
+            "answer": "Conditions like adrenal myelolipoma, where imaging is almost pathognomonic but an unusual case might mimic it."
+        },
+        {
+            "keyword": "diagnostic certainty",
+            "question": "What constitutes a 'Certain' diagnosis (green dot)?",
+            "answer": "A diagnosis based on unequivocal imaging, clinical, surgical, or pathological proof directly obtained from a primary source."
+        },
+        {
+            "keyword": "diagnostic certainty",
+            "question": "What is required for a diagnosis to be labeled 'Certain'?",
+            "answer": "Substantiating evidence like histology reports or diagnostic laboratory tests, and a positive answer to the journal submission test."
+        },
+        {
+            "keyword": "diagnostic certainty",
+            "question": "What does 'Not applicable' (no dot) mean in diagnostic certainty?",
+            "answer": "The images are not of a patient with a particular diagnosis, such as teaching scans or illustrations."
+        },
+        {
+            "keyword": "diagnostic certainty",
+            "question": "How does diagnostic certainty affect case sorting and visibility on Radiopaedia?",
+            "answer": "Cases with high diagnostic certainty are favored in case completeness sorting and are more frequently shown in Quiz Mode."
+        },
+        {
+            "keyword": "diagnostic certainty",
+            "question": "Can search results be filtered based on diagnostic certainty?",
+            "answer": "Yes, they can be filtered to show cases of a minimum diagnostic certainty level, indicated by a colored dot."
+        },
+        {
+            "keyword": "hydrocephalus",
+            "question": "What is hydrocephalus?",
+            "answer": "Hydrocephalus is an increase in the volume of cerebrospinal fluid (CSF) causing distension of cerebral ventricles due to insufficient CSF passage into the systemic circulation."
+        },
+        {
+            "keyword": "hydrocephalus",
+            "question": "What are the traditional terms used to describe hydrocephalus?",
+            "answer": "Hydrocephalus is traditionally referred to as either 'obstructive' or 'communicating'."
+        },
+        {
+            "keyword": "hydrocephalus",
+            "question": "Why can the terms 'obstructive' and 'communicating' be confusing in hydrocephalus?",
+            "answer": "These terms can be confusing as they refer to different aspects of the underlying pathophysiology, namely 'why' and 'where' the obstruction is located."
+        },
+        {
+            "keyword": "hydrocephalus",
+            "question": "What is an example of communicating obstructive hydrocephalus?",
+            "answer": "Acute subarachnoid hemorrhage confined to the basal cisterns can result in communicating obstructive hydrocephalus."
+        },
+        {
+            "keyword": "hydrocephalus",
+            "question": "What terminology is recommended to avoid confusion in hydrocephalus?",
+            "answer": "The terms 'obstructive' and 'non-obstructive' hydrocephalus are recommended."
+        },
+        {
+            "keyword": "hydrocephalus",
+            "question": "How is hydrocephalus classified more precisely?",
+            "answer": "Hydrocephalus is divided into communicating and non-communicating (addressing 'where' the obstruction is) and obstructive and non-obstructive (based on whether there is an obstruction of CSF pathways)."
+        },
+        {
+            "keyword": "hydrocephalus",
+            "question": "What characterizes communicating hydrocephalus?",
+            "answer": "In communicating hydrocephalus, CSF can exit the ventricular system, but normal flow is impeded at some point between the basal cisterns and the arachnoid granulations."
+        },
+        {
+            "keyword": "hydrocephalus",
+            "question": "What are some causes of communicating hydrocephalus?",
+            "answer": "Causes include subarachnoid hemorrhage, infective meningitis, TB meningitis, bacterial meningitis, and leptomeningeal carcinomatosis."
+        },
+        {
+            "keyword": "hydrocephalus",
+            "question": "What is normal pressure hydrocephalus (NPH)?",
+            "answer": "NPH is a type of hydrocephalus without obstruction to CSF absorption, featuring abnormal CSF dynamics."
+        },
+        {
+            "keyword": "hydrocephalus",
+            "question": "What is non-communicating hydrocephalus?",
+            "answer": "Non-communicating hydrocephalus, often referred to as obstructive hydrocephalus, is where CSF cannot exit the ventricular system, causing obstruction to CSF absorption."
+        },
+        {
+            "keyword": "hydrocephalus",
+            "question": "What are some causes of non-communicating hydrocephalus?",
+            "answer": "Causes include obstructions at the foramen of Monro, aqueduct of Sylvius, and the fourth ventricle due to various pathologies like tumors or hemorrhages."
+        },
+        {
+            "keyword": "hydrocephalus",
+            "question": "How is hydrocephalus assessed radiographically?",
+            "answer": "Assessment involves looking at ventricular dilation but considering the possibility of cerebral atrophy, which can cause similar appearances."
+        },
+        {
+            "keyword": "hydrocephalus",
+            "question": "What are some key radiographic features of hydrocephalus on CT scans?",
+            "answer": "Features include a larger bicaudate index, rounding and dilation of the temporal horn, effacement of pericerebral spaces, and stretching of the corpus callosum."
+        },
+        {
+            "keyword": "hydrocephalus",
+            "question": "What additional features does MRI provide in hydrocephalus diagnosis?",
+            "answer": "MRI provides better delineation of soft tissue structures, tumors, or cysts causing obstruction, and can detect white matter tract degeneration."
+        },
+        {
+            "keyword": "hydrocephalus",
+            "question": "What was Walter Dandy's contribution to understanding hydrocephalus?",
+            "answer": "In 1913, Walter Dandy first attempted to classify hydrocephalus into communicating and non-communicating types using dye injection methods."
+        }
+    ]
+}
