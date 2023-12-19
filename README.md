@@ -20,3 +20,12 @@ To work with the packages, you have to install them. You can do this by using th
 Type this command:
 
 pip install -r requirements.txt
+
+## Computing Infrastructure
+To run "flan_t5_large.ipynb" and "llama2.ipynb", 16 GB and more Memory per CPU core is suggested.
+
+To run "flan_t5_xlarge.ipynb" and "medalpace.ipynb", 80 GB and more Memory per CPU core is suggested.
+
+"chatGPT.ipynb" just includes data preprocessing part, 6 GB and more Memory per CPU core is suggested.
+
+No other specific configurations or optimizations used.
